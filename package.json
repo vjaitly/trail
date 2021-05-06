@@ -36,7 +36,7 @@
     "clean": "lerna clean"
   },
   "devDependencies": {
-    "@hapi/lab": "^22.0.5",
+    "@hapi/lab": "^24.2.1",
     "code": "^5.2.0",
     "depcheck": "^1.4.0",
     "husky": "^4.2.5",
